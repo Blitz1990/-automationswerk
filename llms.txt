@@ -5,12 +5,21 @@
 ## Wichtigste Seiten
 
 - Startseite: /
+- Unterseiten: /seiten.html
+- System: /system.html
+- Roadmap: /roadmap.html
+- FAQ: /faq.html
 - Freebie: /freebie.html
 - Starter Bundle: /starter-bundle.html
 - Service: /service.html
+- Mini-Audit: /mini-audit.html
 - Faceless YouTube System: /faceless-youtube-system.html
 - Shorts/Reels/TikTok Analytics: /shorts-reels-tiktok-analytics.html
 - KI-Automatisierung: /ki-automatisierung.html
+
+## Positionierung
+
+Automationswerk baut nicht nur einzelne KI-Tools ein, sondern ein Content Operating System: Idee, Briefing, Produktion, Distribution, Analytics, Entscheidung und Umsatzpfad.
 
 ## Kontakt
 
