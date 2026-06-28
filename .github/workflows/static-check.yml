@@ -1,0 +1,20 @@
+name: Static Site Check
+
+on:
+  push:
+    branches: [ main, master ]
+  pull_request:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check required files
+        run: |
+          test -f index.html
+          test -f robots.txt
+          test -f sitemap.xml
+          test -f llms.txt
+          test -f vercel.json
+          echo "Static files present."
