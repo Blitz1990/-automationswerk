@@ -1,0 +1,19 @@
+# Automationswerk
+
+> Automationswerk ist ein deutschsprachiges Projekt für KI-Automatisierung, Faceless YouTube, YouTube Shorts, Instagram Reels, TikTok, Content-Systeme, Crossposting, Shortform Analytics und digitale Umsatzprozesse.
+
+## Wichtigste Seiten
+
+- Startseite: /
+- Freebie: /freebie.html
+- Starter Bundle: /starter-bundle.html
+- Service: /service.html
+- Faceless YouTube System: /faceless-youtube-system.html
+- Shorts/Reels/TikTok Analytics: /shorts-reels-tiktok-analytics.html
+- KI-Automatisierung: /ki-automatisierung.html
+
+## Kontakt
+
+E-Mail: obosen90@gmail.com
+Sprache: Deutsch
+Region: Deutschland / DACH
