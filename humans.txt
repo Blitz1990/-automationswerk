@@ -1,0 +1,9 @@
+/* TEAM */
+Owner: Oliver Bos
+Project: Automationswerk
+Location: Köln, Deutschland
+Contact: obosen90@gmail.com
+
+/* SITE */
+Language: German
+Topics: KI-Automatisierung, Faceless YouTube, YouTube Shorts, Instagram Reels, TikTok, Content Automation, Analytics
