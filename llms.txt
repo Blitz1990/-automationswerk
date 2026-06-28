@@ -7,6 +7,9 @@
 - Startseite: /
 - Unterseiten: /seiten.html
 - System: /system.html
+- Use Cases: /use-cases.html
+- Ressourcen: /ressourcen.html
+- Kontakt: /kontakt.html
 - Roadmap: /roadmap.html
 - FAQ: /faq.html
 - Freebie: /freebie.html
@@ -19,7 +22,7 @@
 
 ## Positionierung
 
-Automationswerk baut nicht nur einzelne KI-Tools ein, sondern ein Content Operating System: Idee, Briefing, Produktion, Distribution, Analytics, Entscheidung und Umsatzpfad.
+Automationswerk baut nicht nur einzelne KI-Tools ein, sondern ein Content Operating System: Idee, Briefing, Produktion, Distribution, Analytics, Entscheidung und Umsatzpfad. Der Fokus liegt auf echten Workflows, Human Gates, sauberer Wiederverwertung und datenbasierter Optimierung.
 
 ## Kontakt
 
